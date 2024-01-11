@@ -49,7 +49,7 @@ write your solution:
 2. Write Your Own Test Cases
 3. Pseudocode
 4. Code
-5. Make It Clean and Readable
+5. Make It Clean and Readablehttps://github.com/mujahidina/phase-1-algorithms-has-target-sum.git
 6. Optimize
 
 Code your solution in the `index.js` file. There's space in the `index.js` file
